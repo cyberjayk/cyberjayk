@@ -10,12 +10,12 @@
 
 ## 📂 Featured Projects
 
-## 🔐 Phishing Email Analysis
+## 🔐 [Phishing Email Analysis]
 - Complete header + mail flow analysis  
 - SPF/DKIM/DMARC validation  
 - Base64 HTML decoding  
 - URL extraction + defanging  
-- IOC development
+- Documentation & Reporting
 
 ## 🧪 Upcoming Project: Splunk Ransomware Challenge (BOTS Scenario)  
 🎯 What I’ll Be Doing in This Project
