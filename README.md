@@ -1,7 +1,24 @@
 ## <h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Aspiring Cybersecurity Professional</a></a>
 
-<!--
-I'
-## - 🔭 I’m currently working on ...
-- 🧪 **Phishing email analysis labs** (headers, SPF/DKIM, Base64 decoding, URL extraction, IOC collection)  
-- 🔎 **SOC101 hands-on labs** (alert triage, threat hunting, log correlation, malware investigation)  
+## 🛡️ What I'm Working On
+- 🧪 **Phishing Email Analysis Labs** (headers, SPF/DKIM, Base64 decoding, URL extraction, IOCs)
+- 🔎 **SOC101 Hands-on Labs** (alert triage, log correlation, threat hunting)
+- ☁️ **Azure Security Projects** (VM deployments, NSGs, Sentinel, KQL detections)
+
+## 📂 Featured Projects
+
+## 🔐 Phishing Email Analysis (Full SOC Investigation)
+- Complete header + mail flow analysis  
+- SPF/DKIM/DMARC validation  
+- Base64 HTML decoding  
+- URL extraction + defanging  
+- IOC development
+
+## 🧪 **Upcoming Project: Splunk Ransomware Challenge (BOTS Scenario)**  
+I'm planning to complete the second **Boss of the SOC (BOTS)** Splunk challenge soon.
+🎯 What I’ll Be Doing in This Project
+- Investigating host-based artifacts inside Splunk  
+- Tracing ransomware execution paths  
+- Identifying malicious processes, persistence mechanisms, and payloads  
+- Building a timeline of infection  
+- Providing remediation recommendations and outlining containment steps to prevent further spread of the ransomware
