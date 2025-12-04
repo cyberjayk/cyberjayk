@@ -7,9 +7,6 @@
 
 
 
-
-## 📂 Featured Projects
-
 ## <br/><a href="https://github.com/cyberjayk/Phishing-Email-Analysis" >🔐Phishing Email Analysis</a></a>
 - Complete header + mail flow analysis  
 - SPF/DKIM/DMARC validation  
