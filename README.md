@@ -2,6 +2,6 @@
 
 <!--
 I'
-- 🔭 I’m currently working on ...
+## - 🔭 I’m currently working on ...
 - 🧪 **Phishing email analysis labs** (headers, SPF/DKIM, Base64 decoding, URL extraction, IOC collection)  
 - 🔎 **SOC101 hands-on labs** (alert triage, threat hunting, log correlation, malware investigation)  
