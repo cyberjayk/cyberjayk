@@ -6,8 +6,9 @@
 - ☁️ **Azure Security Projects** (VM deployments, NSGs, Sentinel, KQL detections)
 
 
-## 📂 Featured Projects
 
+
+📂 Featured Projects
 ## 🔐 Phishing Email Analysis (Full SOC Investigation)
 - Complete header + mail flow analysis  
 - SPF/DKIM/DMARC validation  
