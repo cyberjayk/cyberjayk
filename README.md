@@ -10,7 +10,7 @@
 
 ## 📂 Featured Projects
 
-## 🔐 [Phishing Email Analysis]
+## 🔐 Phishing Email Analysis
 - Complete header + mail flow analysis  
 - SPF/DKIM/DMARC validation  
 - Base64 HTML decoding  
