@@ -3,6 +3,7 @@
 ## 🛡️ What I'm Working On
 - 🔎 **Ransomware Investigation with Splunk Log Analysis** (alert triage, log correlation, threat hunting)
 - ☁️ **Azure Security Projects** (VM deployments, NSGs, Sentinel, KQL detections)
+- 📝 **ISO 27001 Mini Security Program Build** (Policies, Risk Register, SOA)
 
 
 
