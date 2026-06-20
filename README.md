@@ -1,9 +1,10 @@
-## <h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Transitioning into Data Analytics and Data Science through hands-on projects in SQL, Python, Power BI, and Tableau.</a></a>
+## <h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Aspiring Technology Professional</a></a>
 
 ## 🛡️ What I'm Working On
-- 🔎 **Ransomware Investigation with Splunk Log Analysis** (alert triage, log correlation, threat hunting)
-- ☁️ **Azure Security Projects** (VM deployments, NSGs, Sentinel, KQL detections)
-- 📝 **ISO 27001 Mini Security Program Build** (Policies, Risk Register, SOA)
+- SQL Data Exploration Project
+- Power BI Executive Dashboard
+- Python Data Cleaning & Analysis
+- Tableau Visualization Project
 
 
 
