@@ -1,4 +1,4 @@
-## <h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Aspiring Cybersecurity Professional</a></a>
+## <h1>Hi, I'm Jaden! <br/><a href="https://www.linkedin.com/in/jaden-knotts-12854a246/" >Transitioning into Data Analytics and Data Science through hands-on projects in SQL, Python, Power BI, and Tableau.</a></a>
 
 ## 🛡️ What I'm Working On
 - 🔎 **Ransomware Investigation with Splunk Log Analysis** (alert triage, log correlation, threat hunting)
